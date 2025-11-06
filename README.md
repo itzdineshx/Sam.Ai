@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+# 🤖 Zara Voice Assistant - Web UI
+
+A beautiful and intuitive Streamlit-based web interface for the Zara Voice Assistant.
+```markdown
 # 🤖 Zara Voice Assistant - Web UI
 
 A beautiful and intuitive Streamlit-based web interface for the Zara Voice Assistant.
@@ -165,3 +170,11 @@ Edit `ui_config.json` to customize:
 ---
 
 🤖 **Enjoy your enhanced Zara Voice Assistant experience!**
+
+---
+
+# Sam.Ai
+
+A Virtual Samantha...
+
+``` 
